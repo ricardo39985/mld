@@ -1,6 +1,6 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import WesbiteImage from '../images/products/website/website.jpg';
+// import { Link } from 'react-router-dom';
+// import WesbiteImage from '../images/products/website/website.jpg';
 
 const Portfolio = () => {
     return (
